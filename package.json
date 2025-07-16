@@ -1,0 +1,15 @@
+{
+  "name": "taller-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Alberto Medina Herrera",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "random-words": "^2.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
